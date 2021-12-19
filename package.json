@@ -1,0 +1,26 @@
+{
+  "name": "madapps",
+  "version": "1.0.0",
+  "description": "Mahasiswa Distributed Apps, distributed prove of mahasiswa document hash.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fauh45/MaDApps.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fauh45/MaDApps/issues"
+  },
+  "homepage": "https://github.com/fauh45/MaDApps#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.4.1"
+  }
+}
